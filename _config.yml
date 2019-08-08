@@ -1,0 +1,7 @@
+remote_theme: pmarsceill/just-the-docs
+
+locale: en-US
+title: "Early Latin America"
+markdown: kramdown
+search_enabled: true
+
