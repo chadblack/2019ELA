@@ -1,12 +1,12 @@
 ---
 layout: default
-title: calendar
+title: schedule
 nav_order: 5
 has_children: true
-permalink: calendar/
+permalink: schedule/
+has_toc: false
 ---
 
-# calendar
+# schedule
 
-# required readings
 

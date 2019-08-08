@@ -7,7 +7,9 @@ permalink: assignments/
 
 # assignments
 
-## Weekly Reports: (35%)
+## required readings
+
+## weekly reports: (35%)
 
 Each week, students will write a 1 page paper that synthesizes the readings, and connects them to weekly themes in class. Weekly Reports are due by midnight on Thursday, uploaded onto Canvas. The report will respond to all three of the following prompts:
 
@@ -19,10 +21,10 @@ Connect at least one of the readings to the lectures from the week they were ass
 
 The entire report will be no more than about one typed, single-spaced page.
 
-## Exam 1 (20%)
+## exam 1 (20%)
 The midterm.
 
-## Film Reaction (25%)
+## film reaction (25%)
 We will together watch two feature length films this semester, [*La Otra
 Conquista*]() and [*Zama*](https://www.imdb.com/title/tt3409848/). Students
 have to option to write a 3-5 page analysis on either one of these films, the
@@ -31,6 +33,6 @@ civilization, and second of which treats the vanity, ambition, and
 capriciousness of late colonial rule. Screen dates will be announced in class. 
 
 
-## Exam 2 (20%)
+## exam 2 (20%)
 Exam on the second half of the semester.
 

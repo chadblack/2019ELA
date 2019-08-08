@@ -5,8 +5,8 @@ nav_order: 1
 permalink: /index.html
 ---
 
-# Welcome
-{: .fs-9}
+# welcome
+{: .fs-10}
 
 In 1492, Columbus sailed the ocean blue and discovered or destroyed, conquered
 or civilized the Americas. Sixty years later, in 1552, López de Gómara, the
