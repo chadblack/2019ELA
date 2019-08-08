@@ -2,7 +2,7 @@
 layout: default
 title: home
 nav_order: 1
-permalink: /
+permalink: /index.html
 ---
 
 # Welcome
