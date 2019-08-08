@@ -16,6 +16,18 @@ permalink: contact/
 
 ## TA Info
 
+**Amanda Klug**  
+**Email:** aklug -at- vols.utk.edu  
+**Office:**  
+**Office Hours:**  
+
+
+**Kyle Vratarich**  
+**Email:** kvratari -at- vols.utk.edu  
+**Office:**  
+Office Hours:  
+
+
 
 
 
