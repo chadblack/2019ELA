@@ -1,6 +1,6 @@
 ---
 layout: default
-title: assignments
+title: policies
 nav_order: 3
 permalink: policies/
 ---
