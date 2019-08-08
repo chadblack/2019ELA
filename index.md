@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: home
 nav_order: 1
 description: "HILA 255/LACS 251: Early Latin America"
 permalink: /
