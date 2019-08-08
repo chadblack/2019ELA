@@ -2,6 +2,8 @@ locale: en-US
 title: "Introduction to Early Latin America"
 markdown: kramdown
 search_enabled: true
+baseurl: "/2019ELA"
+url: "https://chadblack.github.io"
 
 permalink: pretty
 
