@@ -3,8 +3,8 @@ layout: default
 title: week 1
 parent: calendar
 nav_order: 5
-permalink: week1/
+permalink: calendar/week1/
 ---
 
-# Week 1
+# week 1
 
