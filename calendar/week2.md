@@ -6,4 +6,9 @@ nav_order: 7
 permalink: schedule/week2/
 ---
 
+# week 2
+
+August 27 (Tuesday)
+August 29 (Thursday)
+
 

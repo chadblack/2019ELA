@@ -34,5 +34,6 @@ capriciousness of late colonial rule. Screen dates will be announced in class.
 
 
 ## exam 2 (20%)
-Exam on the second half of the semester.
+Exam on the second half of the semester. This exam is scheduled by the
+university for **Tuesday, December 10 at 2:45-4:45pm**.
 

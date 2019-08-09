@@ -10,3 +10,5 @@ permalink: schedule/week1/
 
 Welcome (back) to the History of Early Latin America. 
 
+August 22 (Thursday)
+

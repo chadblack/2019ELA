@@ -6,4 +6,7 @@ nav_order: 17
 permalink: schedule/week12/
 ---
 
+# week 12
 
+November 5 (Tuesday)
+November 7 (Thursday)
