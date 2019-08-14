@@ -6,7 +6,7 @@ nav_order: 17
 permalink: schedule/week12/
 ---
 
-# week 12
+# week 12: love and hate
 
 November 5 (Tuesday)
 November 7 (Thursday)

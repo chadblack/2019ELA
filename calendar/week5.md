@@ -6,7 +6,7 @@ nav_order: 10
 permalink: schedule/week5/
 ---
 
-# week 5
+# week 5: the early encounter
 
-September 17 (Tuesday)
-September 19 (Thursday)
+September 17 (Tuesday)  
+September 19 (Thursday)  
