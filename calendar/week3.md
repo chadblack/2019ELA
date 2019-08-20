@@ -24,6 +24,8 @@ September 3 (Tuesday)  -- Mexica
 * Burkhardt, Louise M. “Mexica Women on the Home Front: Housework and Religion in Aztec Mexico” in Schroeder, Susan et al. Indian Women of Early Mexico, (Norman: University of Oklahoma Press, 1997), pp. 25-54.
 
 
-September 5 (Thursday)  
+September 5 (Thursday) -- Inka  
 
-* Mary Strong, Art, Nature, and Religion in the Central Andes (Austin: Univ. of Texas Press, 2012): pp. 17-58.
+* Mary Strong, *Art, Nature, and Religion in the Central Andes* (Austin: Univ. of Texas Press, 2012): pp. 17-58.
+
+
