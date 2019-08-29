@@ -20,14 +20,14 @@ permalink: contact/
 
 **Amanda Klug**  
 **Email:** aklug -at- vols.utk.edu  
-**Office:**  
-**Drop-In Hours Hours:**  
+**Office:** 2524 Dunford Hall, 5th Floor
+**Drop-In Hours Hours:** R 9:30-10:45, or by appointment 
 
 
 **Kyle Vratarich**  
 **Email:** kvratari -at- vols.utk.edu  
 **Office:** 2524 Dunford Hall, 5th Floor    
-**Drop-In Hours:** TR 12:30-2:00, or by appointment  
+**Drop-In Hours:** T 12:30-2:00, or by appointment  
 
 
 
