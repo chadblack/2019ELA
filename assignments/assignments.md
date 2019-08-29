@@ -11,7 +11,9 @@ permalink: assignments/
 
 ## weekly reports: (35%)
 
-Each week, students will write a 1 page paper that synthesizes the readings, and connects them to weekly themes in class. Weekly Reports are due by midnight on Thursday, uploaded onto Canvas. The report will respond to all three of the following prompts:
+Each week, students will write a 1 page paper that synthesizes the readings,
+and connects them to weekly themes in class. Weekly Reports are due by midnight
+on, Friday uploaded onto Canvas. The report will respond to all three of the following prompts:
 
 Identify at least one concept, event, claim, or proper noun mentioned in the readings that is unfamiliar to you. Use Reference Tools on the Internet or in the library to look up information about it and report your findings, along with the source(s) of any information you find. Anything that could be answered with a fact-check, quick definition, or basic research might be included under this prompt. Be sure to indicate when you are quoting directly from another source by using quotation marks.
 
