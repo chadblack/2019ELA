@@ -23,6 +23,14 @@ September 24 (Tuesday)  -- Conquest Myths and Realities
 
 * “The Spaniards’ Entry into Tenochtitlan,” The Mexico Reader, 97-104.
 
+* For a fantastic graphic novel approach to telling this story, check out
+  the five episodes so far written and drawn at [Aztec
+  Empire](https://www.bigredhair.com/books/aztec-empire/about/). This
+  graphic novel version of the Conquest works hard to be faithful to the
+  visual world and recent historical scholarship on Cortes's march from
+  the sea.
+
+
 September 26 (Thursday) -- Conquest Myths and Realities, continued.
 
 * Patricia Seed, “Failing to Marvel: Atahualpa’s Encounter with the Word,” Latin American Research Review 26.1 (1991): 7-32.
