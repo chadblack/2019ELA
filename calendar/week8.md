@@ -11,12 +11,12 @@ permalink: schedule/week8/
 Our first film of the semester. *La otra conquista* (The Other Conquest) tells
 the story of a Mexica scribe who struggles with the transformation of Tonantzin
 into La Virgen. As you watch the film, pay close attention to how its narration
-performs double mistaken identity^[James Lockhart defines Double Mistaken
+performs double mistaken identity. James Lockhart defines Double Mistaken
 Identity as a process, "in which each side of a cultural exchange presumes
 that a given form or concept is functioning in teh way familiar within its
 own tradition and is unaware of or unimpressed by the other's side's
 inerpretation." *Of Things of the Indies* (Standford University Press,
-1999): 99.], and also the nature of the differing
+1999): 99. Also pay attention the nature of the differing
 cataclysms of the period.
 
 October 8 (Tuesday)
