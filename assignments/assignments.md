@@ -50,6 +50,8 @@ capriciousness of late colonial rule. Screen dates will be announced in class.
 Instructions for the *La Otra Conquista* version of this assignment are
 [here](https://chadblack.net/2019ELA/assignments/la_otra_conquista/).
 
+For instructions for the Zama version of the assignment, click [here](https://chadblack.net/2019ELA/assignments/zama/).
+
 ## exam 2 (20%)
 Exam on the second half of the semester. This exam is scheduled by the
 university for **Tuesday, December 10 at 2:45-4:45pm**.
