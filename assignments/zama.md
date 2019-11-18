@@ -12,8 +12,8 @@ Based on the novel of the same name by Antonio Di Benedetto.
 # Main Cast
 
 * Zama -- Daniel Giménez Cacho
-* Luciana -- Lola Dueñas  
  
+[Full cast.](https://www.imdb.com/title/tt3409848/fullcredits/)
 
 # Paper instructions
 
