@@ -5,7 +5,15 @@ title: Zama
 
 # Director
 
+Lucrecia Martel
+
+Based on the novel of the same name by Antonio Di Benedetto.
+
 # Main Cast
+
+* Zama -- Daniel Giménez Cacho
+* Luciana -- Lola Dueñas  
+ 
 
 # Paper instructions
 
@@ -42,7 +50,9 @@ track of and correctly spell the names of the characters.
 12 pt. font
 1 in. margins
 
-DUE: 
+DUE: **December 3rd, 5p.m.**
+
+
 
 
 
